@@ -1,2 +1,0 @@
-# g-demo
-g-demo
